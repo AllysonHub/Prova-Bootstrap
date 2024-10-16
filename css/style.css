@@ -1,0 +1,58 @@
+body{
+    background-color: cornflowerblue;
+}
+
+main{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 2%;
+    background-color: brown;
+}
+
+#logo{
+    width: 7%;
+    border-radius: 30%;
+}
+.navbar{
+    background-color: rgb(91, 76, 255);
+    
+}
+.collapse{
+    margin-left: 3%;
+}
+.nav-link{
+    color: aliceblue;
+}
+#hometitle{
+    color: aliceblue;
+}
+#carouselExampleIndicators{
+    width: 70%;
+    height: auto;
+    margin-left: 15%;
+    
+}
+
+.foto{
+    width: 25%;
+    padding: 3%;
+    border-radius: 15%;
+}
+.containercard{
+    display: flex;
+    padding: 2%;
+}
+.card-text{
+    font-size: 1rem;
+}
+
+.imagen{
+    width: 30%;
+    height: auto;
+    padding: 2%;
+    margin-left: 2%;
+}
+.final{
+    display: flex;
+}
+
